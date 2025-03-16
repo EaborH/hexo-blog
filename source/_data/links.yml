@@ -1,0 +1,8 @@
+- links_category: LINKS
+  has_thumbnail: false
+  list:
+    - name: Neurocoda
+      link: https://neurocoda.com/
+      avatar: https://neurocoda.com/avatar.png
+      descr: Discover the Rhythm of Life
+
